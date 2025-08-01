@@ -8,39 +8,12 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
+## 🚀 Tecnologias Utilizadas    
 
 - **HTML5** – estrutura da aplicação  
 - **CSS3** – estilização do layout  
 - **JavaScript (ES6)** – lógica do jogo e interatividade  
-- **ResponsiveVoice API** – leitura em voz feminina do conteúdo exibido na tela  
+- **ResponsiveVoice API** – leitura em voz feminina do conteúdo exibido na tela   
 
 ---
 
@@ -58,7 +31,7 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
 
 ### 🎲 Tela Principal do Jogo  
 ![Tela do Jogo](blob:https://web.whatsapp.com/95bf56e0-a953-4cac-9f61-a560d79d3915)
-
+   
 ### 🔊 Leitor de Voz Ativado  
 ![Leitor de Voz Ativo](link-da-imagem-leitor-voz.png)
 
@@ -84,12 +57,15 @@ Esse projeto me ajudou a reforçar conceitos como:
 
 ---
 
-✍️ Autor
-Projeto desenvolvido por Eduardo Felipe 💻
-📧 [Seu e-mail ou LinkedIn opcional]
+## ✍️ Autor
+
+Projeto desenvolvido por **Eduardo Felipe** 💻
+
+📧 www.linkedin.com/in/eduardo-felipe-tech
 
 ---
 
-📜 Licença
-Este projeto foi desenvolvido para fins educacionais.
+## 📜 Licença
+
+Este projeto foi desenvolvido para fins educacionais.   
 Sinta-se à vontade para utilizar, modificar e compartilhar.
