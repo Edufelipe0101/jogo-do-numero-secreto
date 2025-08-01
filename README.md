@@ -35,7 +35,7 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
----
+
 
 - **HTML5** – estrutura da aplicação  
 - **CSS3** – estilização do layout  
