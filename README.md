@@ -10,6 +10,33 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
 
 ## 🚀 Tecnologias Utilizadas
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+---
+
 - **HTML5** – estrutura da aplicação  
 - **CSS3** – estilização do layout  
 - **JavaScript (ES6)** – lógica do jogo e interatividade  
@@ -29,8 +56,6 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
 
 ## 📸 Demonstração do Projeto
 
-> _(Substitua os links abaixo quando adicionar as imagens)_  
-
 ### 🎲 Tela Principal do Jogo  
 ![Tela do Jogo](blob:https://web.whatsapp.com/95bf56e0-a953-4cac-9f61-a560d79d3915)
 
@@ -42,13 +67,13 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
 ## 🌐 Acesse o Projeto
 
 O jogo está hospedado no **Vercel**:  
-👉 [Clique aqui para jogar](link-do-projeto-na-vercel)
+👉 [Clique aqui para jogar](https://jogo-do-numero-secreto-1ten.vercel.app/)
 
 ---
 
 ## 💡 Aprendizado
 
-Durante o desenvolvimento, contei com **orientações dos instrutores da Alura**, mas tive **total autonomia para modificar o arquivo `App.js`**, implementando melhorias na lógica e interatividade do jogo.  
+Durante o desenvolvimento, contei com **orientações dos instrutores da Alura**, mas tive **total autonomia para modificar o arquivo `app.js`**, implementando melhorias na lógica e interatividade do jogo.  
 
 Esse projeto me ajudou a reforçar conceitos como:
 
@@ -59,8 +84,12 @@ Esse projeto me ajudou a reforçar conceitos como:
 
 ---
 
-## 📂 Como executar localmente
+✍️ Autor
+Projeto desenvolvido por Eduardo Felipe 💻
+📧 [Seu e-mail ou LinkedIn opcional]
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+---
+
+📜 Licença
+Este projeto foi desenvolvido para fins educacionais.
+Sinta-se à vontade para utilizar, modificar e compartilhar.
