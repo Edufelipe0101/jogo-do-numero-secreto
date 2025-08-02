@@ -30,7 +30,8 @@ Além disso, o jogo conta com um **leitor de voz feminina** (ativado mediante pe
 ## 📸 Demonstração do Projeto
 
 ### 🎲 Tela Principal do Jogo  
-![Tela do Jogo](blob:https://web.whatsapp.com/95bf56e0-a953-4cac-9f61-a560d79d3915)
+img src="" width="50px" /
+/div
    
 ### 🔊 Leitor de Voz Ativado  
 ![Leitor de Voz Ativo](link-da-imagem-leitor-voz.png)
